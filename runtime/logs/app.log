@@ -1,0 +1,37 @@
+2017-09-27 09:42:10 [192.168.1.6][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.6
+    in /home/administrator/Sites/pippo/views/layouts/main.php:76
+    in /home/administrator/Sites/pippo/controllers/SiteController.php:64
+2017-09-27 09:42:10 [192.168.1.6][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.6
+2017-09-27 09:42:10 [192.168.1.6][-][-][info][application] $_SERVER = [
+    'HTTP_HOST' => '192.168.1.205'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'it-IT,it;q=0.8,en-US;q=0.6,en;q=0.4'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.25 (Debian) Server at 192.168.1.205 Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.25 (Debian)'
+    'SERVER_NAME' => '192.168.1.205'
+    'SERVER_ADDR' => '192.168.1.205'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.6'
+    'DOCUMENT_ROOT' => '/var/www/html'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/var/www/html'
+    'SERVER_ADMIN' => 'webmaster@localhost'
+    'SCRIPT_FILENAME' => '/var/www/html/pippo/web/index.php'
+    'REMOTE_PORT' => '52340'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/pippo/web/'
+    'SCRIPT_NAME' => '/pippo/web/index.php'
+    'PHP_SELF' => '/pippo/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1506505330.25
+    'REQUEST_TIME' => 1506505330
+]
